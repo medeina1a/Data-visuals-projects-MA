@@ -6,6 +6,6 @@
 
 #### The videos show how complex legal material can be presented in a simple, engaging and easy-to-understand way.
 
-[Watch the video (Canva)](https://www.canva.com/design/DAG6pkFRHRs/LALM0Hy-t9IDY3OLSYhW5w/watch?utm_content=DAG6pkFRHRs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc57441c0a6)
+## [Watch the video (Canva)](https://www.canva.com/design/DAG6pkFRHRs/LALM0Hy-t9IDY3OLSYhW5w/watch?utm_content=DAG6pkFRHRs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc57441c0a6)
 
-[Watch the video (DaVinci Resolve)](https://kt.gov.lt/uploads/documents/files/video/8_Susije_ukio_subjektai.mp4)
+## [Watch the video (DaVinci Resolve)](https://kt.gov.lt/uploads/documents/files/video/8_Susije_ukio_subjektai.mp4)
