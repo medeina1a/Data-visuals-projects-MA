@@ -7,7 +7,7 @@ Power BI project analysing electricity production, consumption and pricing trend
 
 → Open folder: electricity-market-analysis
 
-### 🎬 [Educational Video Project](Educational%20Video%20Project%20%28Canva,%20Davinci%20Resolve%29/)
+### 🎬 [Educational video (Canva, DavinciResolve)](educational-video_Canva_DavinciResolve)
 Structured educational video projects.
 
 → Watch video.
